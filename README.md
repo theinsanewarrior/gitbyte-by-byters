@@ -47,5 +47,4 @@ If you have any questions or need help, feel free to open an issue or contact us
 - Utkarsh Sharma (@sharmautkarsh505)
 - Nikunj Miglani (@NM1210)
 
-
 Happy coding with GitByte!
