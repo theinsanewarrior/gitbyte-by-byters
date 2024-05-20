@@ -1,6 +1,6 @@
 # GitByte
 
-GitByte is an AI-powered web IDE that can be accessed via a Chrome extension. It optimizes code and generates new code from Jira stories using ChatGPT APIs, enhancing productivity and streamlining development processes directly within your browser.
+GitByte is an AI-powered web IDE (under development) that can be accessed via a Chrome extension. It optimizes code and generates new code from Jira stories using ChatGPT APIs, enhancing productivity and streamlining development processes directly within your browser.
 
 ## Getting Started
 
