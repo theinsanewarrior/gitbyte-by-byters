@@ -1,0 +1,43 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .dropdown-container {
+    margin-bottom: 10px;
+  }
+  
+  .dropdown-header {
+    margin: 0;
+    padding: 5px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  .input-field {
+    width: calc(100% - 22px);
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
+  .submit-button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
