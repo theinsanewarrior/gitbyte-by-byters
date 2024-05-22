@@ -9,7 +9,7 @@ GitByte is an AI-powered web IDE (under development) that can be accessed via a 
 2. Pin the extension to your Chrome toolbar for easy access.
 
 ### Step 2: Set Up the Backend
-1. Clone the `byters` folder from this repository.
+1. Clone the dev branch of `byters` folder from this repository.
 2. Create a local schema named `gitbyte`.
 3. Change the username and password in the `application.properties` file to match your local database configuration.
 4. Build the project using Java 17.
