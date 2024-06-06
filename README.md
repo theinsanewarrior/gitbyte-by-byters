@@ -44,6 +44,7 @@ Utilize GitByte's powerful features to optimize and generate code effortlessly. 
 If you have any questions or need help, feel free to open an issue or contact us directly.
 
 ## Contributors
+- Himanshu Gupta (@theinsanewarrior)
 - Utkarsh Sharma (@sharmautkarsh505)
 - Nikunj Miglani (@NM1210)
 
